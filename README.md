@@ -1,5 +1,5 @@
-# FusionLedgers
-EPIC Knowledge Society Repository for Building Fusion Ledgers using AI, Analytics, Blockchain, Big Data, Cloud, Cryptography, Cybersecurity, Data Science, IOT and Quantum Computing
+# Fusion Ledgers
+Fusion Ledger is a Distributed Ledger for Data Fusion using Decentralised Data Streams secured through cryptographic proofs and commitments and powered by randomised oracles. 
 
 # Implementation Roadmap :
 Integrating a State Machine based Workflow into IPFS
