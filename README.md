@@ -1,5 +1,9 @@
-# Fusion Ledgers
-EPIC Knowledge Society is building a Decentralised Data Fusion Ledger leveraging the power of cutting edge cryptographic primitives such as ZK SNARKS, Zokrates, Pendersen Commitments, Random Oracles, and Distributed Data Structures such as Direct Acyclic Graphs, Merkle Trees and JSON Schema. The fusion ledger is currently deployed using Ethereum and IPFS. We are planning the next iteration in Algorand and Aeternity. We will also upgrade the cryptographic primitives using ZK STARKS, Homomorphic Commitments, Interactive Oracle Proofs and Verifiable Random Functions. The fusion ledger is completely open source and currently in the prototyping phase. If anyone of you would like to contribute to the design and development of fusion ledger, please contact us at the email address - epicknowledgesociety@gmail.com
+# Prelude
+We are building a new ledger for wide spectrum of autonomous interactions between humans, humans and machines and machine to machine touchpoints. 
+
+
+# Vision
+This is a Decentralised Data Fusion Ledger leveraging the power of cutting edge cryptographic primitives such as ZK SNARKS, Zokrates, Pendersen Commitments, Random Oracles, and Distributed Data Structures such as Direct Acyclic Graphs, Merkle Trees and JSON Schema. The fusion ledger is currently deployed using Ethereum and IPFS. We are planning the next iteration in Algorand and Aeternity. We will also upgrade the cryptographic primitives using ZK STARKS, Homomorphic Commitments, Interactive Oracle Proofs and Verifiable Random Functions. The fusion ledger is completely open source and currently in the prototyping phase. If anyone of you would like to contribute to the design and development of fusion ledger, please contact us at the email address - epicknowledgesociety@gmail.com
 
 # Feature Summary 
 
@@ -23,6 +27,20 @@ Fusion Graphs will be transfomed into verifiable graphs through IPFS. These grap
 
 # Onchain Computations
 The proofs and commitments will be verified by Data Verifiers through various Stake and Slash Proofs and Shared to Data Consumers who are authenticated and authorised through Multi Signature Wallets. 
+
+# Reference Architeture 
+
+Schema Layer - JSON Schema based Linked Data
+
+Distibution Layer - Distributed Streams of Linked Data
+
+Fusion Layer - Directed Acyclic Graph of Fused Streams
+
+Trust Layer - Verified Graphs, Commitments and Proofs
+
+Transaction Layer - Asynchronous Workflows with Oracles
+
+Economy Layer - Coherent Computation of Stakes and Slashes
 
 # Ledger Users
 
