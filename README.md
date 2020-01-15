@@ -1,5 +1,5 @@
 # Fusion Ledgers
-Fusion Ledger is a Distributed Ledger for Data Fusion using Decentralised Data Streams secured through cryptographic proofs and commitments and powered by randomised oracles. 
+EPIC Knowledge Society is building a Decentralised Data Fusion Ledger leveraging the power of cutting edge cryptographic primitives such as ZK SNARKS, Zokrates, Pendersen Commitments, Random Oracles, and Distributed Data Structures such as Direct Acyclic Graphs, Merkle Trees and JSON Schema. The fusion ledger is currently deployed using Ethereum and IPFS. We are planning the next iteration in Algorand and Aeternity. We will also upgrade the cryptographic primitives using ZK STARKS, Homomorphic Commitments, Interactive Oracle Proofs and Verifiable Random Functions. The fusion ledger is completely open source and currently in the prototyping phase. If anyone of you would like to contribute to the design and development of fusion ledger, please contact us at the email address - epicknowledgesociety@gmail.com
 
 # Implementation Roadmap :
 Integrating a State Machine based Workflow into IPFS
@@ -13,6 +13,7 @@ Converting Data Streams into Graphs
 Converting Graphs into Directed Acyclic Graphs
 
 # Features :
+
 
 Schema Verification Tokens
 
