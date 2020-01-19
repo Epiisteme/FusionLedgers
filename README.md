@@ -1,5 +1,5 @@
 # Prelude
-We are building a new ledger for wide spectrum of autonomous interactions between humans, humans and machines and machine to machine touchpoints. This is a Distributed Ledger Technology for Decentralised Data Stream Management using Cryptographic Primitives and Coherent Consensus Algorithms. This Ledger is leveraging the power of cutting edge cryptographic primitives such as ZK SNARKS, Zokrates, Pendersen Commitments, Random Oracles, and Distributed Data Structures such as Direct Acyclic Graphs, Merkle Trees and JSON Schema. The fusion ledger is currently deployed using Ethereum and IPFS.
+We are building a new ledger for wide spectrum of autonomous interactions between humans, humans and machines and machine to machine touchpoints. This is a Distributed Ledger Technology for Decentralised Data Stream Management using Cryptographic Primitives and Coherent Consensus Algorithms. This Ledger is leveraging the power of cutting edge cryptographic primitives such as Zero Knowledge Proofs, Polynomial Commitments, Random Oracles, and Distributed Data Structures such as Direct Acyclic Graphs, Merkle Trees and JSON Schema based Linked Data Streams. The fusion ledger is currently deployed using Ethereum and IPFS.
 
 # Reference Architeture 
 * Schema Layer - JSON Schema based Linked Data
@@ -84,8 +84,8 @@ The proofs and commitments will be verified by Data Verifiers through various St
 
 ## Data Governance Layer
 * Tokens based on Workflows
-* Apriori Commitments
-* Apriori Proofs
+* Authenticated Commitments
+* State Transition Proofs
 
 # Data Consumption Layer
 * Multi Signature Wallets
