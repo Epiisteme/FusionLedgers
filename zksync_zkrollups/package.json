@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "ethers": "^4.0.45",
+    "zksync": "^0.3.10"
+  }
+}
